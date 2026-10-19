@@ -108,6 +108,18 @@ Postman is an API platform for building and using APIs.
 
 ---
 
+### [Glim](https://github.com/NeoPanic/Glim) - File Viewer and Basic Text Editor
+
+[![Glim GitHub Link][opensource]](https://github.com/NeoPanic/Glim)
+
+View Markdown with diagrams, source code, Git diffs and data files in one macOS workspace. Ordinary UTF-8 files support basic editing; PDF and Office previews remain read-only.
+
+[Download the Apple Silicon or Intel DMG](https://github.com/NeoPanic/Glim/releases/latest), then copy Glim.app to Applications. Current DMGs are not Apple-notarized; see the [official first-launch instructions](https://github.com/NeoPanic/Glim#download).
+
+[<img src="https://raw.githubusercontent.com/NeoPanic/Glim/main/assets/readme/workspace.png" alt="Glim workspace, from the official project README" width="600">](https://github.com/NeoPanic/Glim)
+
+---
+
 ## Other Apps
 
 ### [Buttercup][buttercup] - Password Manager
